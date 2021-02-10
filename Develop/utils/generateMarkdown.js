@@ -27,6 +27,8 @@ ${answers.email}
 
 ## Github link: 
 https://github.com/${answers.github}
+
+![image](https://user-images.githubusercontent.com/75334749/107550520-c1770000-6b96-11eb-9e6b-4373da1a2ded.png)
 `;
 }
 
