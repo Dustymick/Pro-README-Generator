@@ -7,19 +7,19 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "what is the title of your project?",
+        message: "What is the title of your project?",
 
     },
     {
         type: "input",
         name: "description",
-        message: "describe the goal and purpose of your project?",
+        message: "Please describe the goal and purpose of your project?",
 
     },
     {
         type: "input",
         name: "installation",
-        message: "what were some of the additional components installed?",
+        message: "What were some of the additional components installed?",
 
     },
     {
@@ -30,14 +30,26 @@ const questions = [
     },
     {
         type: "input",
+        name: "video",
+        message: "Do you have a link containing a Screencastify video that describes how the command line generator works? If so, please provide link.",
+
+    },
+    {
+        type: "input",
+        name: "username",
+        message: "What is your Github username?",
+
+    },
+    {
+        type: "input",
         name: "github",
-        message: "what is your github username?",
+        message: "What is the link to your Githbub repository?",
 
     },
     {
         type: "input",
         name: "email",
-        message: "what is your email?",
+        message: "What is your primary email address that you can be contacted at?",
 
     },
 ];

@@ -22,11 +22,18 @@ ${answers.installation}
 ## Contributors:
 ${answers.contributors}
 
+## Video:
+${answers.video}[Pro-README Generator walkthrough video](https://drive.google.com/file/d/1uBmKNir5io4HXv-a_gwtOZTdspzCT2XL/view)
+
 ## Email address: 
 ${answers.email}
 
+## Github username:
+${answers.username}
+
 ## Github link: 
 https://github.com/${answers.github}
+
 
 ![image](https://user-images.githubusercontent.com/75334749/107550520-c1770000-6b96-11eb-9e6b-4373da1a2ded.png)
 `;
